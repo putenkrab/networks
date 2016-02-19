@@ -1,10 +1,10 @@
-# networks
-Network Science classes
+# Network Science classes
 
-Сайт курса
+## Сайт курса
+
 http://leonidzhukov.net/hse/2016/networks/
 
-Python for the beginners
+## Python for the beginners
 https://docs.python.org/3/tutorial/index.html
 http://pep8.ru/doc/dive-into-python-3/
 ОиМП 2015 - курс по основам программирования, 6 первых лекций на Питоне
