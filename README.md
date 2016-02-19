@@ -5,10 +5,16 @@
 http://leonidzhukov.net/hse/2016/networks/
 
 ## Python for the beginners
-https://docs.python.org/3/tutorial/index.html
-http://pep8.ru/doc/dive-into-python-3/
+
+- https://docs.python.org/3/tutorial/index.html
+- http://pep8.ru/doc/dive-into-python-3/
+- http://wiki.cs.hse.ru 
+
 ОиМП 2015 - курс по основам программирования, 6 первых лекций на Питоне
+
 ОиМП 2014 - курс по основам программирования, 8 первых лекций на Питоне
+
+- http://cs.hse.ru/ai/omp/help
 Краткий help для новичков
 
 IPythponNotebook
